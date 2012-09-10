@@ -1,7 +1,7 @@
 App = Ember.Application.create();
 
 App.ApplicationView = Ember.View.extend({
-  templateName: 'application'
+  templateName: 'demoapplication'
 });
 App.ApplicationController = Ember.Controller.extend();
 
